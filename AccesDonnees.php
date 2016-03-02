@@ -11,7 +11,7 @@ $modeacces = "mysql";
  * @param uneBasededonnee string
  *  <p>Nom de la base de donnees.</p>
  * 
- * @return Retourne l'identifiant de connexion MySQL en cas de succès 
+ * @return Retourne l'identifiant de connexion MySQL en cas de succÃ¨s 
  *         ou FALSE si une erreur survient.
  *         
  * @author Erwan Le Guen 
@@ -141,7 +141,5 @@ function champSQL($connexion, $sql) {
 	}
 
 }
-
-
-
+salutr: intrusion
 ?>
